@@ -1,0 +1,1 @@
+const SPRITE_SIZE = 45
